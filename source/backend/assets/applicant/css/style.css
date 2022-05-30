@@ -1,0 +1,56 @@
+body{
+    background: #eb7640;
+}
+.user-personal{
+    background: #4F555C;
+    border-radius: 7px;
+    padding: 2rem 0 2rem 7rem;
+    color: #ffffff;
+}
+.user-about{
+    background: #4F555C;
+    border-radius: 7px;
+    padding: 1rem 0 2rem 2rem;
+    color: #ffffff;
+}
+.user-about p{
+    color: #ffffff;
+}
+.info{
+    background: #ffffff;
+    color: #000000;
+    padding: 1rem 0 2rem 2rem;
+    border-radius: 7px;
+}
+.info-block{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.info-blocks{
+    margin: 1.25em 1.25em 1.25em 0;
+    border-radius: 5px;
+    box-shadow: 0 0 2px 2px gray;
+    padding: 1em;
+}
+.skills{
+    margin: 1.25em 0 1.25em 0;
+}
+.skills .badge{
+    font-size: 1.25em;
+    padding: .5em;
+    cursor: pointer;
+    margin-left: 1em;
+}
+@media print {
+    body * {
+        visibility: hidden;
+    }
+    #pdf, #pdf * {
+        visibility: visible;
+    }
+    #pdf {
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+}

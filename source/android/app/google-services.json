@@ -1,0 +1,133 @@
+{
+  "project_info": {
+    "project_number": "965547246334",
+    "firebase_url": "https://herody-bf512.firebaseio.com",
+    "project_id": "herody-bf512",
+    "storage_bucket": "herody-bf512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965547246334:android:75c74dd78099add9d69baf",
+        "android_client_info": {
+          "package_name": "com.jaketa.herody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965547246334-05n2c890jq4qbrec63vpdglqeu4350rs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "d88af1708614af20da918f1e8241e00024912ce7"
+          }
+        },
+        {
+          "client_id": "965547246334-0nnlgk0lv05mv7lo8rb7au7nndkvsag8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "c6d8a34bd7517b1d82e6711de2f826ef0d665dd6"
+          }
+        },
+        {
+          "client_id": "965547246334-jreqlc9ghlgmd7vc528gb1ajp7658lod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "1c2cf384b33388e25065014a343ac375a89de1aa"
+          }
+        },
+        {
+          "client_id": "965547246334-jvsrsqaj3eadblb63uvk1dah1dpmrpid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "db60dce7023778ce9686a1259c2cb5fd7dc300bc"
+          }
+        },
+        {
+          "client_id": "965547246334-llf49fc92h304qqq0up27d9mmbkpnp2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "7e326064343fff188f18d9e5a0bfced5eb6503ec"
+          }
+        },
+        {
+          "client_id": "965547246334-rj15hsm0ieh3oov1ca3ci1f5ilr4ibhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "a1047d69cb4d08ac75a1386b2285df476b63701c"
+          }
+        },
+        {
+          "client_id": "965547246334-rsc8ut8kb1st3rknqn3ne0qpovae4tt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "02376411c5a5d56ac66c95a55dd62bc70a8c9b05"
+          }
+        },
+        {
+          "client_id": "965547246334-331uiorkgi7ve3tc4d61cg6ruskdqqos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iaKYQDrKF6f-U91coHcgOVYpJ0hHHYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965547246334-331uiorkgi7ve3tc4d61cg6ruskdqqos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965547246334:android:b5ae5271653a69ced69baf",
+        "android_client_info": {
+          "package_name": "com.jaketa.herody"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965547246334-d7aqb6e2798s5u2rvnhe1rhnu6cabelb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jaketa.herody",
+            "certificate_hash": "a1047d69cb4d08ac75a1386b2285df476b63701c"
+          }
+        },
+        {
+          "client_id": "965547246334-331uiorkgi7ve3tc4d61cg6ruskdqqos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9iaKYQDrKF6f-U91coHcgOVYpJ0hHHYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965547246334-331uiorkgi7ve3tc4d61cg6ruskdqqos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

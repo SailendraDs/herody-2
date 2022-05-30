@@ -1,0 +1,8 @@
+{
+  "dart.devToolsLogFile": null,
+  "dart.embedDevTools": false,
+  "dart.shareDevToolsWithFlutter": false,
+  "dart.showDevToolsDebugToolBarButtons": false,
+  "dart.warnWhenEditingFilesInPubCache": false,
+  "dart.devToolsReuseWindows": false
+}
